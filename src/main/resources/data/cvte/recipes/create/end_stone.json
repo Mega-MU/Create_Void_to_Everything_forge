@@ -1,0 +1,18 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "minecraft:glowstone_dust"
+      },
+      {
+        "amount": 250,
+        "fluid": "minecraft:lava",
+        "nbt": {}
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:end_stone"
+      }
+    ]
+  }

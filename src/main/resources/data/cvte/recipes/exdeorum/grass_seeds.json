@@ -1,0 +1,22 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "minecraft:grass_block"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "exdeorum:grass_seeds"
+      },
+      {
+        "chance": 0.5,
+        "item": "exdeorum:grass_seeds"
+      },
+      {
+        "chance": 0.75,
+        "item": "minecraft:dirt"
+      }
+    ]
+  }

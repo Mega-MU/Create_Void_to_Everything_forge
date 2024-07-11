@@ -1,0 +1,19 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "minecraft:warped_fungus"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "count": 3,
+        "item": "exdeorum:warped_nylium_spores"
+      },
+      {
+        "chance": 0.5,
+        "item":"exdeorum:warped_nylium_spores"
+      }
+    ]
+  }

@@ -1,0 +1,18 @@
+{
+    "type": "create:filling",
+    "ingredients": [
+      {
+        "item": "exdeorum:dust"
+      },
+      {
+        "amount": 250,
+        "fluid": "minecraft:water",
+        "nbt": {}
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:clay"
+      }
+    ]
+  }

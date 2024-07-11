@@ -1,0 +1,41 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "superheated",
+    "ingredients": [
+      {
+        "item": "minecraft:gold_nugget"
+      },
+      {
+        "item": "minecraft:ender_eye"
+      },
+      {
+        "item": "minecraft:ender_eye"
+      },
+      {
+        "item": "minecraft:blaze_powder"
+      },
+      {
+        "item": "minecraft:blaze_powder"
+      },
+      {
+        "item": "minecraft:glowstone_dust"
+      },
+      {
+        "item": "minecraft:glowstone_dust"
+      },
+      {
+        "item": "minecraft:glowstone_dust"
+      },
+      {
+        "amount": 250,
+        "fluid": "create_central_kitchen:dragon_breath"
+      }
+    ],
+    "results": [
+      {
+        "amount": 640,
+        "fluid": "create_enchantment_industry:experience"
+      }
+    ]
+  }
+  

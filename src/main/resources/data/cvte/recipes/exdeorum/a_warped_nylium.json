@@ -1,0 +1,16 @@
+{
+    "type": "create:item_application",
+    "ingredients": [
+      {
+        "item": "minecraft:netherrack"
+      },
+      {
+        "item": "exdeorum:warped_nylium_spores"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:warped_nylium"
+      }
+    ]
+  }

@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "amount": 1000,
+      "fluidTag": "forge:milk"
+    },
+    {
+      "amount": 1000,
+      "fluid": "minecraft:water"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:slime_block"
+    }
+  ]
+}

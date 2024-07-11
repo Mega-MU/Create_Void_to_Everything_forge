@@ -1,0 +1,18 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "minecraft:sand"
+      },
+      {
+        "amount": 250,
+        "fluid": "exdeorum:witch_water",
+        "nbt": {}
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:soul_sand"
+      }
+    ]
+  }

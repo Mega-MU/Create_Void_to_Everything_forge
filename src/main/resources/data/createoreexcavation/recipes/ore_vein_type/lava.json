@@ -1,0 +1,17 @@
+{
+    "type": "createoreexcavation:vein",
+    "amountMax": 2.0,
+    "amountMin": 1.0,
+    "biomeBlacklist": "minecraft:is_end",
+    "icon": {
+      "item": "minecraft:lava_bucket"
+    },
+    "name": "{\"translate\":\"block.minecraft.lava\"}",
+    "neverFinite": true,
+    "placement": {
+      "salt": 1195889336,
+      "separation": 8,
+      "spacing": 64
+    },
+    "priority": 0
+  }

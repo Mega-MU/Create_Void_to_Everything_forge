@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "minecraft:end_stone"
+      }
+    ],
+    "processingTime": 250,
+    "results": [
+      {
+        "count": 1,
+        "item": "exdeorum:crushed_end_stone"
+      }
+    ]
+  }

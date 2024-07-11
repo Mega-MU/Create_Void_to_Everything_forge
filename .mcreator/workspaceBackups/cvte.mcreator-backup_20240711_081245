@@ -1,0 +1,58 @@
+{
+  "mod_elements": [
+    {
+      "name": "Vitality",
+      "type": "fluid",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vitality",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/cvte/fluid/VitalityFluid.java",
+          "src/main/resources/assets/cvte/models/item/vitality_bucket.json",
+          "src/main/java/net/mcreator/cvte/block/VitalityBlock.java",
+          "src/main/java/net/mcreator/cvte/fluid/types/VitalityFluidType.java",
+          "src/main/resources/assets/cvte/blockstates/vitality.json",
+          "src/main/resources/assets/cvte/models/block/vitality.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "BLOCKS:minecraft:replaceable": [
+      "~CUSTOM:Vitality"
+    ]
+  },
+  "language_map": {
+    "en_us": {
+      "fluid.cvte.vitality": "Vitality",
+      "block.cvte.vitality": "Vitality"
+    },
+    "zh_cn": {
+      "fluid.cvte.vitality": "Vitality",
+      "block.cvte.vitality": "Vitality"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "cvte",
+    "modName": "Create: Void to Everything",
+    "version": "1.0.0",
+    "author": "MegaMU, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "net.mcreator.cvte"
+  },
+  "mcreatorVersion": 202400118518
+}

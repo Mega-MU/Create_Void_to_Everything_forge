@@ -1,0 +1,16 @@
+{
+    "type": "create:item_application",
+    "ingredients": [
+      {
+        "item": "minecraft:dirt"
+      },
+      {
+        "item": "exdeorum:grass_seeds"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:grass_block"
+      }
+    ]
+  }
